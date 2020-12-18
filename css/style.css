@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* Обнуление стилей*/
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;700;800&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
@@ -1197,7 +1197,7 @@ body {
 
 .item__copy a:last-child {
   border: none;
-  padding: 0 0 0 5;
+  padding: 0 0 0 5px;
 }
 
 .item__info {
